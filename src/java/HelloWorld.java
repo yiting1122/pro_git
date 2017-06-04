@@ -1,4 +1,9 @@
-#import java.util.*;
+import java.util.*
 
-say hah nono
-yes!
+
+Class HelloWorld{
+	public static void main(String[] args){
+		int i=0;
+		i++;
+	}
+}
